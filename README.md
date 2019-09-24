@@ -9,7 +9,7 @@
 Data is available here for the following conversations:
 
 * **uberx.taiwan**: Engagement with the government of Taiwan as part of the [vTaiwan](https://www.wired.co.uk/article/taiwan-sunflower-revolution-audrey-tang-g0v) participatory process which led to the successful regulation of Uber in Taiwan.
-* **bowling-green.american-assembly**: Conversation run by the [American Assembly](https://americanassembly.org/) in [Bowling Green Kentucky](https://en.wikipedia.org/wiki/Bowling_Green,_Kentucky) (yes, [that](https://en.wikipedia.org/wiki/Bowling_Green_massacre) Bowling Green) seeking to find out what's important to residents, and question the narrative of a "divided America" at the local/regional scope.
+* **bowling-green.american-assembly**: Conversation run by the [American Assembly](https://americanassembly.org/) in [Bowling Green Kentucky](https://en.wikipedia.org/wiki/Bowling_Green,_Kentucky) regarding what's important to residents, and question the narrative of a "divided America" at the local/regional scope
 * **operation-marching-orders.march-on**: Conversation run for [March On](https://www.wearemarchon.org/)
   (sister organization to [Women's March](https://womensmarch.com/)) seeking organization direction and platform.
 * **15-per-hour-seattle**: Polis demo  regarding opinions on the move
