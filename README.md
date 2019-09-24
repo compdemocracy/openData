@@ -17,4 +17,4 @@ Data is available here for the following conversations:
 * **football-concussions**: Polis demo conversation regarding the societal implications of brain injuries in American football.
 * **brexit-consensus**: Labour Party test discussion regarding Brexit
 * **canadian-electoral-reform**: Conversation regarding Canadian electoral reform.
-
+* **scoop-biodiversity**: Scoop & PEP run [hivemind conversation regarding Biodiversity in NZ](http://www.scoop.co.nz/stories/HL1908/S00014/scoop-hivemind-protecting-and-restoring-biodiversity.htm)
