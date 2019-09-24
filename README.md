@@ -12,10 +12,9 @@ Data is available here for the following conversations:
 * **bowling-green.american-assembly**: Conversation run by the [American Assembly](https://americanassembly.org/) in [Bowling Green Kentucky](https://en.wikipedia.org/wiki/Bowling_Green,_Kentucky) (yes, [that](https://en.wikipedia.org/wiki/Bowling_Green_massacre) Bowling Green) seeking to find out what's important to residents, and question the narrative of a "divided America" at the local/regional scope.
 * **operation-marching-orders.march-on**: Conversation run for [March On](https://www.wearemarchon.org/)
   (sister organization to [Women's March](https://womensmarch.com/)) seeking organization direction and platform.
-* **15-per-hour-seattle**: Demo conversation hosted by Polis Technologies Inc regarding opinions on the move
+* **15-per-hour-seattle**: Polis demo  regarding opinions on the move
   to a $15/hr minimum wage.
-* **football-concussions**: Another Polis Technologies Inc demo conversation on the societal implications of
-  brain injuries in American football.
-* **brexit-consensus**: Someone's attempt at finding consensus in the contentious Brexit debate.
+* **football-concussions**: Polis demo conversation regarding the societal implications of brain injuries in American football.
+* **brexit-consensus**: Labour Party test discussion regarding Brexit
 * **canadian-electoral-reform**: Conversation regarding Canadian electoral reform.
 
