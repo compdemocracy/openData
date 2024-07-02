@@ -18,3 +18,49 @@ Data is available here for the following conversations:
 * **brexit-consensus**: Labour Party test discussion regarding Brexit
 * **canadian-electoral-reform**: Conversation regarding Canadian electoral reform.
 * **biodiversity**: Scoop & PEP run [hivemind conversation regarding Biodiversity in NZ](http://www.scoop.co.nz/stories/HL1908/S00014/scoop-hivemind-protecting-and-restoring-biodiversity.htm)
+
+## Licensing
+
+### Description of Polis open data
+
+Each data set is a model of the opinions of a population at a given time, containing anonymous human expressions, in a political context, created through a process run by a facilitator, on open source software maintained by a nonprofit.
+
+### All Polis data is licensed CC By 4.0
+
+All Polis data is licensed under a Creative Commons Attribution 4.0 International license: https://creativecommons.org/licenses/by/4.0/
+
+### How to attribute Polis open data
+
+    --------------- BEGIN STATEMENT ---------------
+    
+    Data was gathered using the Polis software (compdemocracy.org/polis) and is sub-licensed under CC BY 4.0 with Attribution to The Computational Democracy Project. The data and more information about how the data was collected can be found at the following link(s):
+    
+    <links to individual case study URLs>
+    
+    --------------- END STATEMENT ---------------
+
+
+If you are using data from multiple conversations, you may use multiple links underneath a single attribution.
+
+
+### Individual case study URLs for attribution and citation
+
+- https://compdemocracy.org/case-studies/2014-seattle-15-per-hour
+- https://compdemocracy.org/case-studies/2018-kentucky
+- https://compdemocracy.org/case-studies/2022-Austria-Klimarat
+- https://compdemocracy.org/case-studies/2017-brexit-consensus
+- https://compdemocracy.org/case-studies/2016-canadian-electoral-reform
+- https://compdemocracy.org/case-studies/2015-football-concussions
+- https://compdemocracy.org/case-studies/2022-london-youth-policing
+- https://compdemocracy.org/case-studies/2018-march-on
+- https://compdemocracy.org/case-studies/2017-scoop-hivemind-affordable-housing
+- https://compdemocracy.org/case-studies/2019-scoop-hivemind-biodiversity
+- https://compdemocracy.org/case-studies/2017-scoop-hivemind-freshwater
+- https://compdemocracy.org/case-studies/2018-scoop-hivemind-taxes
+- https://compdemocracy.org/case-studies/2017-scoop-hivemind-ubi
+- https://compdemocracy.org/case-studies/2021-san-juan-island
+- https://compdemocracy.org/case-studies/2015-vtaiwan-uberx
+
+### For further information on best practices for Attribution of CC 4.0 licensed content
+
+Please see: https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#Title.2C_Author.2C_Source.2C_License
